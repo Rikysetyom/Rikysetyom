@@ -1,4 +1,4 @@
-### Hello, I am Riky 👋
+### Hello, I am Riky 👋 😊
 
 <!--
 **Rikysetyom/Rikysetyom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
