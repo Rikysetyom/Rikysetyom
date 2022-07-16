@@ -8,6 +8,7 @@
   <a href="https://twitter.com/rikysetio_m/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"></a>
 <hr>
 
+<meta http-equiv=”refresh” content=”5" />
 
 
 ## 💻Tech Stack
