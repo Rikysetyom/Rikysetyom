@@ -1,4 +1,12 @@
-### Hello, I am Riky 👋 😊
+### Hello,<img src="https://github.com/elhakimyasya/elhakimyasya/blob/master/assets/Hi.gif" width="29" height="29" /> I am<b> Riky </b>😊
+
+<p algin="center"> <img SRC="https://komarev.com/ghpvc/?username=rikysetyom&label=VISITOR+COUNT&color=blue&style=plastic "/> 
+
+<hr>
+  <a href="https://facebook.com/rikysetiom/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
+  <a href="https://instagram.com/rikysetio_m/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
+  <a href="https://twitter.com/rikysetio_m/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"></a>
+<hr>
 
 <!--
 **Rikysetyom/Rikysetyom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
